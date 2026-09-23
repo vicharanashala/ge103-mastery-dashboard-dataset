@@ -1,0 +1,204 @@
+student_id,branch,mentor_id,pct_complete_self_reported,pct_demonstrated_viva,predicted_grade
+G0001,CSE,M10,54.94,54.94,Needs Attention
+G0002,AI,M01,64.81,64.81,Below Average
+G0003,AI,M01,100.0,100.00,Average
+G0004,AI,M01,100.0,100.00,Average
+G0005,AI,M01,61.73,61.73,Below Average
+G0006,AI,M01,65.43,65.43,Below Average
+G0007,AI,M01,100.0,100.00,Average
+G0008,AI,M01,58.64,58.64,Below Average
+G0009,AI,M01,100.0,100.00,Average
+G0010,AI,M01,100.0,100.00,Average
+G0011,AI,M01,100.0,100.00,Average
+G0012,AI,M01,84.57,84.57,Average
+G0013,AI,M01,100.0,100.00,Average
+G0014,AI,M01,58.02,58.02,Below Average
+G0015,AI,M01,54.94,54.94,Needs Attention
+G0016,AI,M01,100.0,100.00,Average
+G0017,AI,M01,100.0,100.00,Average
+G0018,AI,M01,100.0,100.00,Average
+G0019,AI,M01,100.0,100.00,Average
+G0020,AI,M06,100.0,100.00,Average
+G0021,AI,M06,100.0,100.00,Average
+G0022,Civil,M02,81.48,70.99,Average
+G0023,Civil,M02,69.14,68.52,Below Average
+G0024,Civil,M02,84.57,74.07,Average
+G0025,Civil,M02,58.64,58.64,Below Average
+G0028,Civil,M02,61.11,61.11,Below Average
+G0029,Civil,M02,84.57,74.07,Average
+G0030,Civil,M02,84.57,74.07,Average
+G0031,Civil,M02,60.49,60.49,Below Average
+G0033,Civil,M02,67.9,64.81,Below Average
+G0034,Civil,M02,20.99,20.99,Needs More Attention
+G0035,Civil,M02,69.14,69.14,Below Average
+G0036,Civil,M02,57.41,57.41,Below Average
+G0038,Civil,M02,100.0,75.93,Average
+G0039,Civil,M02,46.3,46.30,Needs Attention
+G0040,Civil,M12,61.11,61.11,Below Average
+G0041,Civil,M12,80.25,74.07,Average
+G0042,Civil,M12,61.73,61.73,Below Average
+G0043,Civil,M12,76.54,74.07,Below Average
+G0044,Civil,M12,66.05,64.81,Below Average
+G0045,Civil,M12,58.64,58.64,Below Average
+G0046,Civil,M12,38.27,38.27,Needs Attention
+G0047,Civil,M12,80.25,74.07,Average
+G0048,Civil,M12,58.64,58.64,Below Average
+G0049,Civil,M12,69.75,64.81,Below Average
+G0050,Civil,M12,100.0,74.07,Average
+G0051,Civil,M12,64.81,63.58,Below Average
+G0052,Civil,M12,64.2,60.49,Below Average
+G0053,Civil,M12,84.57,74.07,Average
+G0054,Civil,M12,100.0,74.07,Average
+G0055,Civil,M12,51.85,51.85,Needs Attention
+G0056,Civil,M12,68.52,64.81,Below Average
+G0057,Chemical,M12,61.11,61.11,Below Average
+G0058,Chemical,M03,75.31,70.99,Below Average
+G0059,Chemical,M03,83.33,74.07,Average
+G0060,Chemical,M03,75.31,70.99,Below Average
+G0061,Chemical,M03,53.7,53.70,Needs Attention
+G0062,Chemical,M03,64.2,61.73,Below Average
+G0063,Chemical,M03,100.0,100.00,Average
+G0064,Chemical,M03,79.01,74.07,Below Average
+G0065,Chemical,M03,100.0,100.00,Average
+G0066,Chemical,M03,66.05,66.05,Below Average
+G0067,Chemical,M03,53.7,53.70,Needs Attention
+G0068,Chemical,M03,64.2,64.20,Below Average
+G0069,Chemical,M03,69.14,64.81,Below Average
+G0071,Chemical,M03,100.0,100.00,Average
+G0072,Chemical,M03,98.77,98.77,Average
+G0073,Chemical,M03,80.25,80.25,Average
+G0075,Chemical,M03,95.68,74.07,Average
+G0076,Chemical,M07,58.64,58.64,Below Average
+G0077,Chemical,M07,100.0,100.00,Average
+G0078,Chemical,M07,100.0,100.00,Average
+G0079,Chemical,M07,48.15,48.15,Needs Attention
+G0080,Chemical,M07,98.77,98.77,Average
+G0081,Chemical,M07,78.4,78.40,Below Average
+G0082,Chemical,M07,64.81,64.81,Below Average
+G0083,Chemical,M07,70.37,70.37,Below Average
+G0084,Chemical,M07,100.0,100.00,Average
+G0085,Chemical,M07,72.22,72.22,Below Average
+G0086,Chemical,M07,64.81,64.81,Below Average
+G0087,Chemical,M07,100.0,100.00,Average
+G0088,Chemical,M07,77.78,77.78,Below Average
+G0089,Chemical,M07,57.41,57.41,Below Average
+G0090,Chemical,M07,79.63,79.63,Below Average
+G0091,Chemical,M07,79.01,79.01,Below Average
+G0092,CSE,M06,100.0,100.00,Average
+G0093,CSE,M06,100.0,100.00,Average
+G0094,CSE,M06,100.0,100.00,Average
+G0095,CSE,M06,100.0,100.00,Average
+G0096,CSE,M06,100.0,100.00,Average
+G0097,CSE,M06,83.33,83.33,Average
+G0098,CSE,M06,100.0,100.00,Average
+G0099,CSE,M06,77.78,77.78,Below Average
+G0100,CSE,M06,100.0,100.00,Average
+G0101,CSE,M06,100.0,100.00,Average
+G0102,CSE,M06,100.0,100.00,Average
+G0103,CSE,M06,100.0,100.00,Average
+G0104,CSE,M06,100.0,100.00,Average
+G0105,CSE,M06,100.0,100.00,Average
+G0106,CSE,M06,100.0,100.00,Average
+G0107,CSE,M06,100.0,100.00,Average
+G0108,CSE,M05,77.16,73.46,Below Average
+G0109,CSE,M05,84.57,84.57,Average
+G0110,CSE,M05,100.0,100.00,Average
+G0111,CSE,M05,45.68,45.68,Needs Attention
+G0112,CSE,M05,45.06,43.21,Needs Attention
+G0113,CSE,M05,100.0,100.00,Average
+G0114,CSE,M05,78.4,78.40,Below Average
+G0115,CSE,M05,100.0,100.00,Average
+G0116,CSE,M05,78.4,78.40,Below Average
+G0117,CSE,M05,73.46,73.46,Below Average
+G0118,CSE,M05,75.93,75.93,Below Average
+G0119,CSE,M05,67.28,67.28,Below Average
+G0120,CSE,M05,100.0,100.00,Average
+G0121,CSE,M05,62.35,62.35,Below Average
+G0122,CSE,M05,100.0,100.00,Average
+G0123,CSE,M05,100.0,100.00,Average
+G0124,CSE,M05,100.0,100.00,Average
+G0125,CSE,M05,96.91,96.91,Average
+G0126,CSE,M09,100.0,100.00,Average
+G0127,CSE,M09,100.0,100.00,Average
+G0128,CSE,M09,81.48,81.48,Average
+G0129,CSE,M09,100.0,100.00,Average
+G0130,CSE,M09,65.43,65.43,Below Average
+G0131,CSE,M09,75.31,74.07,Below Average
+G0132,CSE,M09,100.0,100.00,Average
+G0133,CSE,M09,100.0,100.00,Average
+G0134,CSE,M09,66.05,66.05,Below Average
+G0135,CSE,M09,82.72,77.16,Average
+G0136,CSE,M09,45.68,45.68,Needs Attention
+G0137,CSE,M09,100.0,98.77,Average
+G0138,CSE,M09,83.33,76.54,Average
+G0139,CSE,M09,77.78,77.78,Below Average
+G0140,CSE,M09,67.28,67.28,Below Average
+G0141,CSE,M09,100.0,82.10,Average
+G0142,CSE,M09,100.0,100.00,Average
+G0143,CSE,M09,100.0,100.00,Average
+G0144,CSE,M04,78.4,74.07,Below Average
+G0145,CSE,M04,80.25,80.25,Average
+G0146,CSE,M04,100.0,100.00,Average
+G0147,CSE,M04,100.0,100.00,Average
+G0148,CSE,M04,100.0,100.00,Average
+G0149,CSE,M04,76.54,70.99,Below Average
+G0150,CSE,M04,100.0,100.00,Average
+G0151,CSE,M04,99.38,99.38,Average
+G0152,CSE,M04,100.0,100.00,Average
+G0153,CSE,M04,100.0,100.00,Average
+G0154,CSE,M04,100.0,100.00,Average
+G0155,CSE,M04,38.89,38.89,Needs Attention
+G0156,CSE,M04,100.0,100.00,Average
+G0157,CSE,M04,100.0,100.00,Average
+G0158,CSE,M04,71.6,71.60,Below Average
+G0159,CSE,M04,100.0,100.00,Average
+G0160,CSE,M04,70.99,70.99,Below Average
+G0161,CSE,M10,100.0,100.00,Average
+G0162,CSE,M10,100.0,100.00,Average
+G0163,CSE,M10,100.0,100.00,Average
+G0164,CSE,M10,100.0,100.00,Average
+G0165,CSE,M10,100.0,100.00,Average
+G0166,CSE,M10,37.65,37.65,Needs Attention
+G0167,CSE,M10,60.49,60.49,Below Average
+G0168,CSE,M10,58.64,58.64,Below Average
+G0170,CSE,M10,100.0,100.00,Average
+G0171,CSE,M10,100.0,100.00,Average
+G0172,CSE,M10,75.93,75.93,Below Average
+G0173,CSE,M10,96.3,96.30,Average
+G0174,CSE,M10,100.0,100.00,Average
+G0175,CSE,M10,96.91,96.91,Average
+G0176,Mathematics & Computing,M07,100.0,100.00,Average
+G0177,Mathematics & Computing,M07,74.07,74.07,Below Average
+G0179,Mathematics & Computing,M08,76.54,74.07,Below Average
+G0180,Mathematics & Computing,M08,100.0,100.00,Average
+G0181,Mathematics & Computing,M08,100.0,100.00,Average
+G0182,Mathematics & Computing,M08,79.01,79.01,Below Average
+G0183,Mathematics & Computing,M08,100.0,100.00,Average
+G0184,Mathematics & Computing,M08,98.77,98.77,Average
+G0185,Mathematics & Computing,M08,100.0,100.00,Average
+G0186,Mathematics & Computing,M08,100.0,100.00,Average
+G0187,Mathematics & Computing,M08,74.07,74.07,Below Average
+G0188,Mathematics & Computing,M08,100.0,100.00,Average
+G0189,Mathematics & Computing,M08,100.0,100.00,Average
+G0190,Mathematics & Computing,M08,100.0,100.00,Average
+G0191,Mathematics & Computing,M08,79.63,74.07,Below Average
+G0192,Mathematics & Computing,M08,54.94,54.94,Needs Attention
+G0193,Mathematics & Computing,M08,73.46,67.90,Below Average
+G0194,Mathematics & Computing,M08,100.0,100.00,Average
+G0195,Mathematics & Computing,M08,100.0,100.00,Average
+G0196,Mathematics & Computing,M11,100.0,100.00,Average
+G0197,Mathematics & Computing,M11,100.0,100.00,Average
+G0198,Mathematics & Computing,M11,100.0,100.00,Average
+G0199,Mathematics & Computing,M11,75.31,73.46,Below Average
+G0200,Mathematics & Computing,M11,74.07,67.90,Below Average
+G0201,Mathematics & Computing,M11,74.07,67.90,Below Average
+G0202,Mathematics & Computing,M11,75.31,67.90,Below Average
+G0203,Mathematics & Computing,M11,81.48,74.07,Average
+G0204,Mathematics & Computing,M11,75.93,74.07,Below Average
+G0205,Mathematics & Computing,M11,100.0,74.07,Average
+G0206,Mathematics & Computing,M11,91.36,91.36,Average
+G0207,Mathematics & Computing,M11,83.33,83.33,Average
+G0208,Mathematics & Computing,M11,100.0,100.00,Average
+G0209,Mathematics & Computing,M11,61.11,61.11,Below Average
+G0210,Mathematics & Computing,M11,89.51,89.51,Average
+G0211,Mathematics & Computing,M11,100.0,100.00,Average
